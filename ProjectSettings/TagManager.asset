@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Door_L
+  - Door_U
+  - Door_R
+  - Door_D
+  - Arrow
+  - Canvas
+  - Data
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - bg
+  - frontbg1
+  - wall
+  - frontf
+  - player
+  - enemy
+  - coin
+  - cointriger
+  - enemyattack
+  - roomLayer
+  - roomMove
+  - cameracheck
+  - spark
+  - openCheck
+  - flyEnemy
+  - minimap
+  - arrow
+  - sword
+  - enemywall
+  - gate
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: roomCreater
+    uniqueID: 2787661221
+    locked: 0
+  - name: bg
+    uniqueID: 3198073645
+    locked: 0
+  - name: frontbg
+    uniqueID: 3409918435
+    locked: 0
+  - name: player
+    uniqueID: 2449887173
+    locked: 0
+  - name: frontf
+    uniqueID: 4067284551
+    locked: 0
+  - name: frontff
+    uniqueID: 240529263
+    locked: 0
+  - name: frontff(fire)
+    uniqueID: 231438879
+    locked: 0
+  - name: UI
+    uniqueID: 2830367849
+    locked: 0
